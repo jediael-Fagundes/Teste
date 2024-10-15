@@ -6,7 +6,7 @@ git add <arquivo>
 Adiciona um ou mais arquivos ao índice (staging area) para serem incluídos no próximo commit.
 
 
-git commit -m mensagem
+git commit -m "mensagem"
 Grava as alterações no repositório com uma mensagem descritiva.
 
 
