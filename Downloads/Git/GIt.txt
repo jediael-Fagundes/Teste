@@ -1,0 +1,45 @@
+git init
+
+Inicializa um novo repositório Git no diretório atual.
+
+git add <arquivo>
+Adiciona um ou mais arquivos ao índice (staging area) para serem incluídos no próximo commit.
+
+
+git commit -m "mensagem"
+Grava as alterações no repositório com uma mensagem descritiva.
+
+
+
+git status
+Mostra o estado dos arquivos no diretório de trabalho e no índice (quais estão modificados, adicionados, etc.).
+
+git log
+Exibe o histórico de commits do repositório.
+
+git branch
+Lista todas as branches no repositório. Adicionando um nome após o comando (git branch <nome>), cria uma nova branch.
+
+
+
+
+
+
+git push
+Envia as alterações locais para o repositório remoto.
+
+cd 
+abre arquivos 
+
+dir 
+mostra tudo que esta dentro daquela pasta 
+
+
+
+git config --global user.name "Seu Nome"
+Define o nome de usuário que será associado aos commits. O uso do --global aplica essa configuração para todos os repositórios no seu sistema.
+
+
+git config --global user.email "seu.email@exemplo.com"
+Define o endereço de e-mail que será associado aos commits. Assim como o comando anterior, --global aplica a todos os repositórios.
+
